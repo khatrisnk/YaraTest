@@ -1,0 +1,18 @@
+<testsuites name="jest tests" tests="7" failures="0" time="2.472">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-09-10T18:30:06" time="2.472" tests="7">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.04">
+    </testcase>
+    <testcase classname=" + operation works" name=" + operation works" time="0.019">
+    </testcase>
+    <testcase classname=" - operation works" name=" - operation works" time="0.015">
+    </testcase>
+    <testcase classname=" * operation works" name=" * operation works" time="0.013">
+    </testcase>
+    <testcase classname=" / operation works" name=" / operation works" time="0.011">
+    </testcase>
+    <testcase classname=" total operations count is maintained" name=" total operations count is maintained" time="0.036">
+    </testcase>
+    <testcase classname=" Reset button works" name=" Reset button works" time="0.014">
+    </testcase>
+  </testsuite>
+</testsuites>
